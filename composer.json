@@ -1,0 +1,21 @@
+{
+    "name": "stupidlysimple/hack-core",
+    "description": "Core packages for StupidlySimple Hack Framework",
+    "keywords": ["micro framework","lazy","stupidly simple", "hack framework", "hack", "hhvm"],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fariz Luqman",
+            "email": "fariz.fnb@gmail.com",
+            "homepage": "https://stupidlysimple.github.io",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src"
+        }
+    }
+}
